@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi 👋, I'm Aaron
 
-<!--
-**aaron-dsk/aaron-dsk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💼 This is my **professional / work GitHub account**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔗 Other Profiles
+
+🧪 Personal GitHub:  
+👉 https://github.com/DSK
+
+💼 LinkedIn:  
+👉 https://www.linkedin.com/in/aaronambro23/
+
+---
+
+## 🛠️ Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,flutter,dart,nodejs,mongodb,firebase,supabase,postman" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=aaron-dsk&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=aaron-dsk&theme=tokyonight&hide_border=true" />
+</p>
