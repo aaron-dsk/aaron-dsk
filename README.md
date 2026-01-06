@@ -1,4 +1,4 @@
-# Hi 👋, I'm Aaron
+# I'm Aaron Ambrosi
 
 💼 This is my **professional / work GitHub account**
 
@@ -7,7 +7,7 @@
 ## 🔗 Other Profiles
 
 🧪 Personal GitHub:  
-👉 https://github.com/aaronambro23(
+👉 https://github.com/aaronambro23/
 
 💼 LinkedIn:  
 👉 https://www.linkedin.com/in/aaron-ambrosi/
