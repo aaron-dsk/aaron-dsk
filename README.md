@@ -7,10 +7,10 @@
 ## 🔗 Other Profiles
 
 🧪 Personal GitHub:  
-👉 https://github.com/DSK
+👉 https://github.com/aaronambro23(
 
 💼 LinkedIn:  
-👉 https://www.linkedin.com/in/aaronambro23/
+👉 https://www.linkedin.com/in/aaron-ambrosi/
 
 ---
 
