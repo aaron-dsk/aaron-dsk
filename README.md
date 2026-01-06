@@ -24,10 +24,10 @@
 
 ## 📊 GitHub Stats
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=aaron-dsk&show_icons=true&theme=tokyonight&hide_border=true" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aaron-dsk&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" />
 </p>
 
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=aaron-dsk&theme=tokyonight&hide_border=true" />
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=aaron-dsk&theme=tokyonight&hide_border=true" />
 </p>
